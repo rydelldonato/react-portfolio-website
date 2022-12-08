@@ -1,0 +1,17 @@
+ul{
+    list-style-type: none;
+    position: absolute;
+    top: 25%;
+    right: 1%;
+}
+
+li{
+    margin-right: 5px;
+    margin-top: 20px;
+    background-color: #333533;
+    border-radius: 50%;
+}
+
+.nav-image{
+    padding: 5px;
+}
